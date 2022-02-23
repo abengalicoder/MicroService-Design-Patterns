@@ -17,3 +17,9 @@ I use this for documenting my understandings collected from various sources for 
 - CoC (Code Of Conduct)
 - YAGNI (You Aren't Gonna Need It)
 
+## Drawbacks of microservices
+- Additional complexity of distributed systems
+- Significant operational complexity, need high-level
+of automation
+- Rollout plan to coordinate deployments
+- Slower ROI, to begin with
