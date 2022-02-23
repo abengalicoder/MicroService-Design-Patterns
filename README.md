@@ -23,3 +23,5 @@ I use this for documenting my understandings collected from various sources for 
 of automation
 - Rollout plan to coordinate deployments
 - Slower ROI, to begin with
+
+![1_CKSVv4WkS8Okx572rX45HA](https://user-images.githubusercontent.com/100063114/155357481-27794e75-0ebd-4dc0-97de-250116e3e726.png)
